@@ -1,0 +1,2 @@
+webpackJsonp([4],{"3OeC":function(e,t){},YDhy:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{attrs:{id:"register"}},[this._v("\n注册页面\n  ")])},staticRenderFns:[]};var s=n("VU/8")({data:function(){return{msg:"Welcome to Your Vue.js App"}}},r,!1,function(e){n("3OeC")},null,null);t.default=s.exports}});
+//# sourceMappingURL=4.573f8d394fa9e2c96a57.js.map
